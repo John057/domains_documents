@@ -1,0 +1,11 @@
+# .gitignore
+.gitattributes
+.gitignore_global
+.ssh/
+.VBA/
+.syte/
+# все папки
+/**/ 
+*.ini
+~*.*
+# *.*
