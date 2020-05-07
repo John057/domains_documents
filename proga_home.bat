@@ -38,7 +38,7 @@ start "" "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\
 start "" "C:\Program Files\Notepad++\notepad++.exe"
 
 start "" "E:\Dropbox\cmder_home\Cmder.exe"
-start "" "M:\‘¨_GoFlex\C_SimpeCode"
+start "" "M:\‘¨_GoFlex\SimpeCode_Cˆ++"
 start "" "E:\Dropbox\my\domains"
 goto finish
 :html
